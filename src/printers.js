@@ -1,0 +1,1 @@
+export const printReceipt = (text) => { /* ESC/POS printer logic */ };
